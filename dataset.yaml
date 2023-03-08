@@ -1,0 +1,9 @@
+train: ../images/train
+val: ../images/val
+
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+
+nc: 5
+
+names: ['Karat3', 'Karat2', 'Karat4', 'TungauLaba2Merah', 'Karat1']
